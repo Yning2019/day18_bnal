@@ -1,0 +1,16 @@
+update_address:
+  name: "莉莉丝"
+  phone: '13811111111'
+  address: "望府街108号"
+  code: "100000"
+  province: "广东"
+  city: "广州"
+  area: "天河"
+add_address:
+  name: "李四"
+  phone: '13888888888'
+  address: "大使馆1688"
+  code: "123456"
+  province: "河北省"
+  city: "石家庄"
+  area: "长安"

@@ -1,0 +1,7 @@
+base.py                     29 INFO     正在查找元素：('id', 'com.yunmall.lc:id/receipt_name') 超时时间：10 访问频率：0.5
+base.py                     22 INFO     正在查找元素：('id', 'com.yunmall.lc:id/ymtitlebar_right_btn') 超时时间：10 访问频率：0.5
+base.py                     37 INFO     正在点击元素：('id', 'com.yunmall.lc:id/ymtitlebar_right_btn')
+base.py                     29 INFO     正在查找元素：('xpath', "//*[contains(@text,'删除')]") 超时时间：10 访问频率：0.5
+base.py                     22 INFO     正在查找元素：('id', 'com.yunmall.lc:id/ymdialog_left_button') 超时时间：10 访问频率：0.5
+base.py                     37 INFO     正在点击元素：('id', 'com.yunmall.lc:id/ymdialog_left_button')
+base.py                     29 INFO     正在查找元素：('id', 'com.yunmall.lc:id/receipt_name') 超时时间：2 访问频率：0.5

@@ -1,0 +1,27 @@
+base.py                     22 INFO     正在查找元素：('id', 'com.yunmall.lc:id/ymtitlebar_right_btn') 超时时间：10 访问频率：0.5
+base.py                     37 INFO     正在点击元素：('id', 'com.yunmall.lc:id/ymtitlebar_right_btn')
+base.py                     29 INFO     正在查找元素：('xpath', "//*[contains(@text,'修改')]") 超时时间：10 访问频率：0.5
+base.py                     22 INFO     正在查找元素：('id', 'com.yunmall.lc:id/address_receipt_name') 超时时间：10 访问频率：0.5
+base.py                     45 INFO     正在对元素：('id', 'com.yunmall.lc:id/address_receipt_name') 执行清空操作
+base.py                     48 INFO     对元素：('id', 'com.yunmall.lc:id/address_receipt_name') 执行 输入：莉莉丝
+base.py                     22 INFO     正在查找元素：('id', 'com.yunmall.lc:id/address_add_phone') 超时时间：10 访问频率：0.5
+base.py                     45 INFO     正在对元素：('id', 'com.yunmall.lc:id/address_add_phone') 执行清空操作
+base.py                     48 INFO     对元素：('id', 'com.yunmall.lc:id/address_add_phone') 执行 输入：13811111111
+base.py                     22 INFO     正在查找元素：('id', 'com.yunmall.lc:id/address_province') 超时时间：10 访问频率：0.5
+base.py                     37 INFO     正在点击元素：('id', 'com.yunmall.lc:id/address_province')
+base.py                     22 INFO     正在查找元素：('xpath', "//*[contains(@text,'广东')]") 超时时间：10 访问频率：0.5
+base.py                     37 INFO     正在点击元素：('xpath', "//*[contains(@text,'广东')]")
+base.py                     22 INFO     正在查找元素：('xpath', "//*[contains(@text,'广州')]") 超时时间：10 访问频率：0.5
+base.py                     37 INFO     正在点击元素：('xpath', "//*[contains(@text,'广州')]")
+base.py                     22 INFO     正在查找元素：('xpath', "//*[contains(@text,'天河')]") 超时时间：10 访问频率：0.5
+base.py                     37 INFO     正在点击元素：('xpath', "//*[contains(@text,'天河')]")
+base.py                     22 INFO     正在查找元素：('id', 'com.yunmall.lc:id/address_detail_addr_info') 超时时间：10 访问频率：0.5
+base.py                     45 INFO     正在对元素：('id', 'com.yunmall.lc:id/address_detail_addr_info') 执行清空操作
+base.py                     48 INFO     对元素：('id', 'com.yunmall.lc:id/address_detail_addr_info') 执行 输入：望府街108号
+base.py                     22 INFO     正在查找元素：('id', 'com.yunmall.lc:id/address_post_code') 超时时间：10 访问频率：0.5
+base.py                     45 INFO     正在对元素：('id', 'com.yunmall.lc:id/address_post_code') 执行清空操作
+base.py                     48 INFO     对元素：('id', 'com.yunmall.lc:id/address_post_code') 执行 输入：100000
+base.py                     22 INFO     正在查找元素：('id', 'com.yunmall.lc:id/button_send') 超时时间：10 访问频率：0.5
+base.py                     37 INFO     正在点击元素：('id', 'com.yunmall.lc:id/button_send')
+base.py                     29 INFO     正在查找元素：('id', 'com.yunmall.lc:id/receipt_name') 超时时间：10 访问频率：0.5
+base.py                     29 INFO     正在查找元素：('id', 'com.yunmall.lc:id/receipt_name') 超时时间：10 访问频率：0.5

@@ -1,0 +1,463 @@
+2019-09-17 19:47:59,840 INFO [root] [base.py (__init__:15] - 获取driver对象：<appium.webdriver.webdriver.WebDriver (session="af2077dc-a046-4ffa-94ab-b351820e156a")>
+2019-09-17 19:47:59,840 INFO [root] [base.py (__init__:15] - 获取driver对象：<appium.webdriver.webdriver.WebDriver (session="af2077dc-a046-4ffa-94ab-b351820e156a")>
+2019-09-17 19:47:59,841 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/img_close') 超时时间：10 访问频率：0.5
+2019-09-17 19:48:00,472 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/img_close')
+2019-09-17 19:48:00,472 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/tab_me') 超时时间：10 访问频率：0.5
+2019-09-17 19:48:01,714 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/tab_me')
+2019-09-17 19:48:01,715 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/textView1') 超时时间：10 访问频率：0.5
+2019-09-17 19:48:03,045 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/textView1')
+2019-09-17 19:48:03,045 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/logon_account_textview') 超时时间：10 访问频率：0.5
+2019-09-17 19:48:04,372 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/logon_account_textview') 执行清空操作
+2019-09-17 19:48:05,021 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/logon_account_textview') 执行 输入：18333182751
+2019-09-17 19:48:05,021 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/logon_password_textview') 超时时间：10 访问频率：0.5
+2019-09-17 19:48:07,177 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/logon_password_textview') 执行清空操作
+2019-09-17 19:48:07,730 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/logon_password_textview') 执行 输入：yuanning123456
+2019-09-17 19:48:07,730 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/logon_button') 超时时间：10 访问频率：0.5
+2019-09-17 19:48:08,259 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/logon_button')
+2019-09-17 19:48:10,259 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image') 超时时间：10 访问频率：0.5
+2019-09-17 19:48:10,318 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image')
+2019-09-17 19:48:10,319 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/setting_address_manage') 超时时间：10 访问频率：0.5
+2019-09-17 19:48:11,473 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/setting_address_manage')
+2019-09-17 19:48:11,474 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_add_new_btn') 超时时间：10 访问频率：0.5
+2019-09-17 19:48:12,648 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/address_add_new_btn')
+2019-09-17 19:48:12,648 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_receipt_name') 超时时间：10 访问频率：0.5
+2019-09-17 19:48:14,371 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_receipt_name') 执行清空操作
+2019-09-17 19:48:15,038 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_receipt_name') 执行 输入：张三
+2019-09-17 19:48:15,038 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_add_phone') 超时时间：10 访问频率：0.5
+2019-09-17 19:48:16,179 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_add_phone') 执行清空操作
+2019-09-17 19:48:16,849 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_add_phone') 执行 输入：13800001111
+2019-09-17 19:48:16,849 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_province') 超时时间：10 访问频率：0.5
+2019-09-17 19:48:17,399 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/address_province')
+2019-09-17 19:48:17,399 INFO [root] [base.py (base_find:22] - 正在查找元素：('xpath', "//*[contains(@text,'河北省')]") 超时时间：10 访问频率：0.5
+2019-09-17 19:48:18,725 INFO [root] [base.py (base_click:37] - 正在点击元素：('xpath', "//*[contains(@text,'河北省')]")
+2019-09-17 19:48:18,726 INFO [root] [base.py (base_find:22] - 正在查找元素：('xpath', "//*[contains(@text,'石家庄')]") 超时时间：10 访问频率：0.5
+2019-09-17 19:48:19,609 INFO [root] [base.py (base_click:37] - 正在点击元素：('xpath', "//*[contains(@text,'石家庄')]")
+2019-09-17 19:48:19,610 INFO [root] [base.py (base_find:22] - 正在查找元素：('xpath', "//*[contains(@text,'长安区')]") 超时时间：10 访问频率：0.5
+2019-09-17 19:48:20,470 INFO [root] [base.py (base_click:37] - 正在点击元素：('xpath', "//*[contains(@text,'长安区')]")
+2019-09-17 19:48:20,471 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_detail_addr_info') 超时时间：10 访问频率：0.5
+2019-09-17 19:48:21,622 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_detail_addr_info') 执行清空操作
+2019-09-17 19:48:22,419 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_detail_addr_info') 执行 输入：京城110号
+2019-09-17 19:48:22,420 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_post_code') 超时时间：10 访问频率：0.5
+2019-09-17 19:48:23,436 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_post_code') 执行清空操作
+2019-09-17 19:48:24,155 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_post_code') 执行 输入：100010
+2019-09-17 19:48:24,156 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_default') 超时时间：10 访问频率：0.5
+2019-09-17 19:48:24,688 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/address_default')
+2019-09-17 19:48:24,688 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/button_send') 超时时间：10 访问频率：0.5
+2019-09-17 19:48:25,232 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/button_send')
+2019-09-17 19:48:25,234 INFO [root] [base.py (base_finds:29] - 正在查找元素：('id', 'com.yunmall.lc:id/receipt_name') 超时时间：10 访问频率：0.5
+2019-09-17 19:48:26,212 INFO [root] [base.py (base_finds:29] - 正在查找元素：('id', 'com.yunmall.lc:id/receipt_name') 超时时间：10 访问频率：0.5
+2019-09-17 19:48:26,353 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/ymtitlebar_right_btn') 超时时间：10 访问频率：0.5
+2019-09-17 19:48:26,417 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/ymtitlebar_right_btn')
+2019-09-17 19:48:26,417 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/modify') 超时时间：10 访问频率：0.5
+2019-09-17 19:48:27,099 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/modify')
+2019-09-17 19:48:27,100 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_receipt_name') 超时时间：10 访问频率：0.5
+2019-09-17 19:48:28,722 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_receipt_name') 执行清空操作
+2019-09-17 19:48:29,866 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_receipt_name') 执行 输入：莉莉丝
+2019-09-17 19:48:29,866 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_add_phone') 超时时间：10 访问频率：0.5
+2019-09-17 19:48:31,152 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_add_phone') 执行清空操作
+2019-09-17 19:48:32,064 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_add_phone') 执行 输入：13811111111
+2019-09-17 19:48:32,065 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_province') 超时时间：10 访问频率：0.5
+2019-09-17 19:48:32,630 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/address_province')
+2019-09-17 19:48:32,630 INFO [root] [base.py (base_find:22] - 正在查找元素：('xpath', "//*[contains(@text,'河北省')]") 超时时间：10 访问频率：0.5
+2019-09-17 19:51:29,680 INFO [root] [base.py (__init__:15] - 获取driver对象：<appium.webdriver.webdriver.WebDriver (session="060e14ad-de77-42ab-bfa9-d404575acd16")>
+2019-09-17 19:51:29,681 INFO [root] [base.py (__init__:15] - 获取driver对象：<appium.webdriver.webdriver.WebDriver (session="060e14ad-de77-42ab-bfa9-d404575acd16")>
+2019-09-17 19:51:29,681 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/img_close') 超时时间：10 访问频率：0.5
+2019-09-17 19:51:30,579 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/img_close')
+2019-09-17 19:51:30,580 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/tab_me') 超时时间：10 访问频率：0.5
+2019-09-17 19:51:31,707 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/tab_me')
+2019-09-17 19:51:31,707 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/textView1') 超时时间：10 访问频率：0.5
+2019-09-17 19:51:33,364 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/textView1')
+2019-09-17 19:51:33,365 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/logon_account_textview') 超时时间：10 访问频率：0.5
+2019-09-17 19:51:34,662 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/logon_account_textview') 执行清空操作
+2019-09-17 19:51:35,327 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/logon_account_textview') 执行 输入：18333182751
+2019-09-17 19:51:35,328 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/logon_password_textview') 超时时间：10 访问频率：0.5
+2019-09-17 19:51:37,480 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/logon_password_textview') 执行清空操作
+2019-09-17 19:51:38,050 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/logon_password_textview') 执行 输入：yuanning123456
+2019-09-17 19:51:38,051 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/logon_button') 超时时间：10 访问频率：0.5
+2019-09-17 19:51:38,590 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/logon_button')
+2019-09-17 19:51:40,591 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image') 超时时间：10 访问频率：0.5
+2019-09-17 19:51:40,651 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image')
+2019-09-17 19:51:40,651 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/setting_address_manage') 超时时间：10 访问频率：0.5
+2019-09-17 19:51:41,761 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/setting_address_manage')
+2019-09-17 19:51:41,762 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/ymtitlebar_right_btn') 超时时间：10 访问频率：0.5
+2019-09-17 19:51:42,825 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/ymtitlebar_right_btn')
+2019-09-17 19:51:42,826 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/modify') 超时时间：10 访问频率：0.5
+2019-09-17 19:51:43,524 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/modify')
+2019-09-17 19:51:43,525 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_receipt_name') 超时时间：10 访问频率：0.5
+2019-09-17 19:51:45,212 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_receipt_name') 执行清空操作
+2019-09-17 19:51:46,219 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_receipt_name') 执行 输入：莉莉丝
+2019-09-17 19:51:46,219 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_add_phone') 超时时间：10 访问频率：0.5
+2019-09-17 19:51:47,425 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_add_phone') 执行清空操作
+2019-09-17 19:51:48,320 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_add_phone') 执行 输入：13811111111
+2019-09-17 19:51:49,321 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_province') 超时时间：10 访问频率：0.5
+2019-09-17 19:51:49,398 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/address_province')
+2019-09-17 19:51:49,399 INFO [root] [base.py (base_find:22] - 正在查找元素：('xpath', "//*[contains(@text,'广东')]") 超时时间：10 访问频率：0.5
+2019-09-17 19:51:50,502 INFO [root] [base.py (base_click:37] - 正在点击元素：('xpath', "//*[contains(@text,'广东')]")
+2019-09-17 19:51:50,502 INFO [root] [base.py (base_find:22] - 正在查找元素：('xpath', "//*[contains(@text,'广州')]") 超时时间：10 访问频率：0.5
+2019-09-17 19:51:51,349 INFO [root] [base.py (base_click:37] - 正在点击元素：('xpath', "//*[contains(@text,'广州')]")
+2019-09-17 19:51:51,349 INFO [root] [base.py (base_find:22] - 正在查找元素：('xpath', "//*[contains(@text,'天河')]") 超时时间：10 访问频率：0.5
+2019-09-17 19:51:52,181 INFO [root] [base.py (base_click:37] - 正在点击元素：('xpath', "//*[contains(@text,'天河')]")
+2019-09-17 19:51:53,182 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_detail_addr_info') 超时时间：10 访问频率：0.5
+2019-09-17 19:51:53,904 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_detail_addr_info') 执行清空操作
+2019-09-17 19:51:54,846 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_detail_addr_info') 执行 输入：望府街
+2019-09-17 19:51:55,848 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_post_code') 超时时间：10 访问频率：0.5
+2019-09-17 19:51:56,579 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_post_code') 执行清空操作
+2019-09-17 19:51:57,533 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_post_code') 执行 输入：100000
+2019-09-17 19:51:57,534 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/button_send') 超时时间：10 访问频率：0.5
+2019-09-17 19:51:58,099 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/button_send')
+2019-09-17 19:52:39,567 INFO [root] [base.py (__init__:15] - 获取driver对象：<appium.webdriver.webdriver.WebDriver (session="eb11fd63-7662-48ee-a511-5f04dcdda07e")>
+2019-09-17 19:52:39,567 INFO [root] [base.py (__init__:15] - 获取driver对象：<appium.webdriver.webdriver.WebDriver (session="eb11fd63-7662-48ee-a511-5f04dcdda07e")>
+2019-09-17 19:52:39,568 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/img_close') 超时时间：10 访问频率：0.5
+2019-09-17 19:52:40,180 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/img_close')
+2019-09-17 19:52:40,181 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/tab_me') 超时时间：10 访问频率：0.5
+2019-09-17 19:52:41,342 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/tab_me')
+2019-09-17 19:52:41,343 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/textView1') 超时时间：10 访问频率：0.5
+2019-09-17 19:52:42,726 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/textView1')
+2019-09-17 19:52:42,726 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/logon_account_textview') 超时时间：10 访问频率：0.5
+2019-09-17 19:52:44,001 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/logon_account_textview') 执行清空操作
+2019-09-17 19:52:44,659 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/logon_account_textview') 执行 输入：18333182751
+2019-09-17 19:52:44,659 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/logon_password_textview') 超时时间：10 访问频率：0.5
+2019-09-17 19:52:46,793 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/logon_password_textview') 执行清空操作
+2019-09-17 19:52:47,399 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/logon_password_textview') 执行 输入：yuanning123456
+2019-09-17 19:52:47,400 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/logon_button') 超时时间：10 访问频率：0.5
+2019-09-17 19:52:47,924 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/logon_button')
+2019-09-17 19:52:49,925 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image') 超时时间：10 访问频率：0.5
+2019-09-17 19:52:49,985 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image')
+2019-09-17 19:52:49,985 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/setting_address_manage') 超时时间：10 访问频率：0.5
+2019-09-17 19:52:51,106 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/setting_address_manage')
+2019-09-17 19:52:51,108 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/ymtitlebar_right_btn') 超时时间：10 访问频率：0.5
+2019-09-17 19:52:52,134 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/ymtitlebar_right_btn')
+2019-09-17 19:52:52,134 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/modify') 超时时间：10 访问频率：0.5
+2019-09-17 19:52:52,812 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/modify')
+2019-09-17 19:52:52,813 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_receipt_name') 超时时间：10 访问频率：0.5
+2019-09-17 19:52:54,547 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_receipt_name') 执行清空操作
+2019-09-17 19:52:55,554 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_receipt_name') 执行 输入：莉莉丝
+2019-09-17 19:52:55,554 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_add_phone') 超时时间：10 访问频率：0.5
+2019-09-17 19:52:56,763 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_add_phone') 执行清空操作
+2019-09-17 19:52:57,679 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_add_phone') 执行 输入：13811111111
+2019-09-17 19:52:58,679 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_province') 超时时间：10 访问频率：0.5
+2019-09-17 19:52:58,728 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/address_province')
+2019-09-17 19:52:58,728 INFO [root] [base.py (base_find:22] - 正在查找元素：('xpath', "//*[contains(@text,'广东')]") 超时时间：10 访问频率：0.5
+2019-09-17 19:52:59,914 INFO [root] [base.py (base_click:37] - 正在点击元素：('xpath', "//*[contains(@text,'广东')]")
+2019-09-17 19:52:59,914 INFO [root] [base.py (base_find:22] - 正在查找元素：('xpath', "//*[contains(@text,'广州')]") 超时时间：10 访问频率：0.5
+2019-09-17 19:53:01,020 INFO [root] [base.py (base_click:37] - 正在点击元素：('xpath', "//*[contains(@text,'广州')]")
+2019-09-17 19:53:01,021 INFO [root] [base.py (base_find:22] - 正在查找元素：('xpath', "//*[contains(@text,'天河')]") 超时时间：10 访问频率：0.5
+2019-09-17 19:53:01,868 INFO [root] [base.py (base_click:37] - 正在点击元素：('xpath', "//*[contains(@text,'天河')]")
+2019-09-17 19:53:02,868 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_detail_addr_info') 超时时间：10 访问频率：0.5
+2019-09-17 19:53:03,577 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_detail_addr_info') 执行清空操作
+2019-09-17 19:53:04,499 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_detail_addr_info') 执行 输入：望府街108号
+2019-09-17 19:53:05,500 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_post_code') 超时时间：10 访问频率：0.5
+2019-09-17 19:53:06,274 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_post_code') 执行清空操作
+2019-09-17 19:53:07,190 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_post_code') 执行 输入：100000
+2019-09-17 19:53:07,190 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/button_send') 超时时间：10 访问频率：0.5
+2019-09-17 19:53:07,718 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/button_send')
+2019-09-17 19:58:01,909 INFO [root] [base.py (__init__:15] - 获取driver对象：<appium.webdriver.webdriver.WebDriver (session="1d71b4a4-b1ea-41fb-b868-48478c8dd3b1")>
+2019-09-17 19:58:01,910 INFO [root] [base.py (__init__:15] - 获取driver对象：<appium.webdriver.webdriver.WebDriver (session="1d71b4a4-b1ea-41fb-b868-48478c8dd3b1")>
+2019-09-17 19:58:01,911 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/img_close') 超时时间：10 访问频率：0.5
+2019-09-17 19:58:02,464 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/img_close')
+2019-09-17 19:58:02,465 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/tab_me') 超时时间：10 访问频率：0.5
+2019-09-17 19:58:04,229 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/tab_me')
+2019-09-17 19:58:04,229 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/textView1') 超时时间：10 访问频率：0.5
+2019-09-17 19:58:05,769 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/textView1')
+2019-09-17 19:58:05,769 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/logon_account_textview') 超时时间：10 访问频率：0.5
+2019-09-17 19:58:07,127 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/logon_account_textview') 执行清空操作
+2019-09-17 19:58:07,792 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/logon_account_textview') 执行 输入：18333182751
+2019-09-17 19:58:07,792 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/logon_password_textview') 超时时间：10 访问频率：0.5
+2019-09-17 19:58:10,045 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/logon_password_textview') 执行清空操作
+2019-09-17 19:58:10,624 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/logon_password_textview') 执行 输入：yuanning123456
+2019-09-17 19:58:10,625 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/logon_button') 超时时间：10 访问频率：0.5
+2019-09-17 19:58:11,188 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/logon_button')
+2019-09-17 19:58:13,188 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image') 超时时间：10 访问频率：0.5
+2019-09-17 19:58:13,262 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image')
+2019-09-17 19:58:13,262 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/setting_address_manage') 超时时间：10 访问频率：0.5
+2019-09-17 19:58:14,511 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/setting_address_manage')
+2019-09-17 19:58:14,511 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_add_new_btn') 超时时间：10 访问频率：0.5
+2019-09-17 19:58:15,644 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/address_add_new_btn')
+2019-09-17 19:58:15,644 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_receipt_name') 超时时间：10 访问频率：0.5
+2019-09-17 19:58:17,357 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_receipt_name') 执行清空操作
+2019-09-17 19:58:18,034 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_receipt_name') 执行 输入：张三
+2019-09-17 19:58:18,035 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_add_phone') 超时时间：10 访问频率：0.5
+2019-09-17 19:58:19,185 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_add_phone') 执行清空操作
+2019-09-17 19:58:19,843 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_add_phone') 执行 输入：13800001111
+2019-09-17 19:58:19,844 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_province') 超时时间：10 访问频率：0.5
+2019-09-17 19:58:20,377 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/address_province')
+2019-09-17 19:58:20,378 INFO [root] [base.py (base_find:22] - 正在查找元素：('xpath', "//*[contains(@text,'河北省')]") 超时时间：10 访问频率：0.5
+2019-09-17 19:58:21,535 INFO [root] [base.py (base_click:37] - 正在点击元素：('xpath', "//*[contains(@text,'河北省')]")
+2019-09-17 19:58:21,536 INFO [root] [base.py (base_find:22] - 正在查找元素：('xpath', "//*[contains(@text,'石家庄')]") 超时时间：10 访问频率：0.5
+2019-09-17 19:58:22,388 INFO [root] [base.py (base_click:37] - 正在点击元素：('xpath', "//*[contains(@text,'石家庄')]")
+2019-09-17 19:58:22,388 INFO [root] [base.py (base_find:22] - 正在查找元素：('xpath', "//*[contains(@text,'长安区')]") 超时时间：10 访问频率：0.5
+2019-09-17 19:58:23,236 INFO [root] [base.py (base_click:37] - 正在点击元素：('xpath', "//*[contains(@text,'长安区')]")
+2019-09-17 19:58:23,236 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_detail_addr_info') 超时时间：10 访问频率：0.5
+2019-09-17 19:58:24,448 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_detail_addr_info') 执行清空操作
+2019-09-17 19:58:25,287 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_detail_addr_info') 执行 输入：京城110号
+2019-09-17 19:58:25,288 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_post_code') 超时时间：10 访问频率：0.5
+2019-09-17 19:58:26,345 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_post_code') 执行清空操作
+2019-09-17 19:58:27,033 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_post_code') 执行 输入：100010
+2019-09-17 19:58:27,034 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_default') 超时时间：10 访问频率：0.5
+2019-09-17 19:58:27,568 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/address_default')
+2019-09-17 19:58:27,569 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/button_send') 超时时间：10 访问频率：0.5
+2019-09-17 19:58:28,112 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/button_send')
+2019-09-17 19:58:28,113 INFO [root] [base.py (base_finds:29] - 正在查找元素：('id', 'com.yunmall.lc:id/receipt_name') 超时时间：10 访问频率：0.5
+2019-09-17 19:58:29,106 INFO [root] [base.py (base_finds:29] - 正在查找元素：('id', 'com.yunmall.lc:id/receipt_name') 超时时间：10 访问频率：0.5
+2019-09-17 19:58:29,300 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/ymtitlebar_right_btn') 超时时间：10 访问频率：0.5
+2019-09-17 19:58:29,337 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/ymtitlebar_right_btn')
+2019-09-17 19:58:29,338 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/modify') 超时时间：10 访问频率：0.5
+2019-09-17 19:58:30,010 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/modify')
+2019-09-17 19:58:30,011 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_receipt_name') 超时时间：10 访问频率：0.5
+2019-09-17 19:58:31,574 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_receipt_name') 执行清空操作
+2019-09-17 19:58:32,588 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_receipt_name') 执行 输入：莉莉丝
+2019-09-17 19:58:32,589 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_add_phone') 超时时间：10 访问频率：0.5
+2019-09-17 19:58:33,876 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_add_phone') 执行清空操作
+2019-09-17 19:58:34,796 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_add_phone') 执行 输入：13811111111
+2019-09-17 19:58:35,797 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_province') 超时时间：10 访问频率：0.5
+2019-09-17 19:58:35,842 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/address_province')
+2019-09-17 19:58:35,842 INFO [root] [base.py (base_find:22] - 正在查找元素：('xpath', "//*[contains(@text,'广东')]") 超时时间：10 访问频率：0.5
+2019-09-17 19:58:36,918 INFO [root] [base.py (base_click:37] - 正在点击元素：('xpath', "//*[contains(@text,'广东')]")
+2019-09-17 19:58:36,918 INFO [root] [base.py (base_find:22] - 正在查找元素：('xpath', "//*[contains(@text,'广州')]") 超时时间：10 访问频率：0.5
+2019-09-17 19:58:37,767 INFO [root] [base.py (base_click:37] - 正在点击元素：('xpath', "//*[contains(@text,'广州')]")
+2019-09-17 19:58:37,768 INFO [root] [base.py (base_find:22] - 正在查找元素：('xpath', "//*[contains(@text,'天河')]") 超时时间：10 访问频率：0.5
+2019-09-17 19:58:38,618 INFO [root] [base.py (base_click:37] - 正在点击元素：('xpath', "//*[contains(@text,'天河')]")
+2019-09-17 19:58:39,618 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_detail_addr_info') 超时时间：10 访问频率：0.5
+2019-09-17 19:58:40,384 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_detail_addr_info') 执行清空操作
+2019-09-17 19:58:41,340 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_detail_addr_info') 执行 输入：望府街108号
+2019-09-17 19:58:42,340 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_post_code') 超时时间：10 访问频率：0.5
+2019-09-17 19:58:43,228 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_post_code') 执行清空操作
+2019-09-17 19:58:44,144 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_post_code') 执行 输入：100000
+2019-09-17 19:58:44,144 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/button_send') 超时时间：10 访问频率：0.5
+2019-09-17 19:58:44,665 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/button_send')
+2019-09-17 19:58:44,665 INFO [root] [base.py (base_finds:29] - 正在查找元素：('id', 'com.yunmall.lc:id/receipt_name') 超时时间：10 访问频率：0.5
+2019-09-17 19:58:45,691 INFO [root] [base.py (base_finds:29] - 正在查找元素：('id', 'com.yunmall.lc:id/receipt_name') 超时时间：10 访问频率：0.5
+2019-09-17 20:14:00,978 INFO [root] [base.py (__init__:15] - 获取driver对象：<appium.webdriver.webdriver.WebDriver (session="174d6202-b89b-4445-a5e7-3a7cae4a38b5")>
+2019-09-17 20:14:00,978 INFO [root] [base.py (__init__:15] - 获取driver对象：<appium.webdriver.webdriver.WebDriver (session="174d6202-b89b-4445-a5e7-3a7cae4a38b5")>
+2019-09-17 20:14:00,979 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/img_close') 超时时间：10 访问频率：0.5
+2019-09-17 20:14:01,483 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/img_close')
+2019-09-17 20:14:01,484 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/tab_me') 超时时间：10 访问频率：0.5
+2019-09-17 20:14:02,658 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/tab_me')
+2019-09-17 20:14:02,659 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/textView1') 超时时间：10 访问频率：0.5
+2019-09-17 20:14:04,011 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/textView1')
+2019-09-17 20:14:04,012 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/logon_account_textview') 超时时间：10 访问频率：0.5
+2019-09-17 20:14:05,425 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/logon_account_textview') 执行清空操作
+2019-09-17 20:14:06,117 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/logon_account_textview') 执行 输入：18333182751
+2019-09-17 20:14:06,117 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/logon_password_textview') 超时时间：10 访问频率：0.5
+2019-09-17 20:14:08,276 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/logon_password_textview') 执行清空操作
+2019-09-17 20:14:08,834 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/logon_password_textview') 执行 输入：yuanning123456
+2019-09-17 20:14:08,834 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/logon_button') 超时时间：10 访问频率：0.5
+2019-09-17 20:14:09,404 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/logon_button')
+2019-09-17 20:14:11,404 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image') 超时时间：10 访问频率：0.5
+2019-09-17 20:14:11,487 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image')
+2019-09-17 20:14:11,487 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/setting_address_manage') 超时时间：10 访问频率：0.5
+2019-09-17 20:14:12,670 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/setting_address_manage')
+2019-09-17 20:14:12,671 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_add_new_btn') 超时时间：10 访问频率：0.5
+2019-09-17 20:14:13,799 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/address_add_new_btn')
+2019-09-17 20:14:13,799 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_receipt_name') 超时时间：10 访问频率：0.5
+2019-09-17 20:14:15,436 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_receipt_name') 执行清空操作
+2019-09-17 20:14:16,103 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_receipt_name') 执行 输入：张三
+2019-09-17 20:14:16,103 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_add_phone') 超时时间：10 访问频率：0.5
+2019-09-17 20:14:17,141 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_add_phone') 执行清空操作
+2019-09-17 20:14:17,817 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_add_phone') 执行 输入：13800001111
+2019-09-17 20:14:17,817 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_province') 超时时间：10 访问频率：0.5
+2019-09-17 20:14:18,345 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/address_province')
+2019-09-17 20:14:18,346 INFO [root] [base.py (base_find:22] - 正在查找元素：('xpath', "//*[contains(@text,'河北省')]") 超时时间：10 访问频率：0.5
+2019-09-17 20:14:19,530 INFO [root] [base.py (base_click:37] - 正在点击元素：('xpath', "//*[contains(@text,'河北省')]")
+2019-09-17 20:14:19,530 INFO [root] [base.py (base_find:22] - 正在查找元素：('xpath', "//*[contains(@text,'石家庄')]") 超时时间：10 访问频率：0.5
+2019-09-17 20:14:20,405 INFO [root] [base.py (base_click:37] - 正在点击元素：('xpath', "//*[contains(@text,'石家庄')]")
+2019-09-17 20:14:20,406 INFO [root] [base.py (base_find:22] - 正在查找元素：('xpath', "//*[contains(@text,'长安区')]") 超时时间：10 访问频率：0.5
+2019-09-17 20:14:21,276 INFO [root] [base.py (base_click:37] - 正在点击元素：('xpath', "//*[contains(@text,'长安区')]")
+2019-09-17 20:14:21,276 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_detail_addr_info') 超时时间：10 访问频率：0.5
+2019-09-17 20:14:22,496 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_detail_addr_info') 执行清空操作
+2019-09-17 20:14:23,225 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_detail_addr_info') 执行 输入：京城110号
+2019-09-17 20:14:23,225 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_post_code') 超时时间：10 访问频率：0.5
+2019-09-17 20:14:24,287 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_post_code') 执行清空操作
+2019-09-17 20:14:24,981 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_post_code') 执行 输入：100010
+2019-09-17 20:14:24,981 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_default') 超时时间：10 访问频率：0.5
+2019-09-17 20:14:25,505 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/address_default')
+2019-09-17 20:14:25,506 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/button_send') 超时时间：10 访问频率：0.5
+2019-09-17 20:14:26,038 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/button_send')
+2019-09-17 20:14:26,039 INFO [root] [base.py (base_finds:29] - 正在查找元素：('id', 'com.yunmall.lc:id/receipt_name') 超时时间：10 访问频率：0.5
+2019-09-17 20:14:27,053 INFO [root] [base.py (base_finds:29] - 正在查找元素：('id', 'com.yunmall.lc:id/receipt_name') 超时时间：10 访问频率：0.5
+2019-09-17 20:14:27,254 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/ymtitlebar_right_btn') 超时时间：10 访问频率：0.5
+2019-09-17 20:14:27,300 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/ymtitlebar_right_btn')
+2019-09-17 20:14:27,300 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/modify') 超时时间：10 访问频率：0.5
+2019-09-17 20:14:27,986 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/modify')
+2019-09-17 20:14:27,986 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_receipt_name') 超时时间：10 访问频率：0.5
+2019-09-17 20:14:30,246 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_receipt_name') 执行清空操作
+2019-09-17 20:14:31,291 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_receipt_name') 执行 输入：莉莉丝
+2019-09-17 20:14:31,292 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_add_phone') 超时时间：10 访问频率：0.5
+2019-09-17 20:14:32,529 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_add_phone') 执行清空操作
+2019-09-17 20:14:33,445 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_add_phone') 执行 输入：13811111111
+2019-09-17 20:14:34,446 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_province') 超时时间：10 访问频率：0.5
+2019-09-17 20:14:34,493 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/address_province')
+2019-09-17 20:14:34,493 INFO [root] [base.py (base_find:22] - 正在查找元素：('xpath', "//*[contains(@text,'广东')]") 超时时间：10 访问频率：0.5
+2019-09-17 20:14:35,524 INFO [root] [base.py (base_click:37] - 正在点击元素：('xpath', "//*[contains(@text,'广东')]")
+2019-09-17 20:14:35,525 INFO [root] [base.py (base_find:22] - 正在查找元素：('xpath', "//*[contains(@text,'广州')]") 超时时间：10 访问频率：0.5
+2019-09-17 20:14:36,389 INFO [root] [base.py (base_click:37] - 正在点击元素：('xpath', "//*[contains(@text,'广州')]")
+2019-09-17 20:14:36,390 INFO [root] [base.py (base_find:22] - 正在查找元素：('xpath', "//*[contains(@text,'天河')]") 超时时间：10 访问频率：0.5
+2019-09-17 20:14:37,224 INFO [root] [base.py (base_click:37] - 正在点击元素：('xpath', "//*[contains(@text,'天河')]")
+2019-09-17 20:14:38,225 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_detail_addr_info') 超时时间：10 访问频率：0.5
+2019-09-17 20:14:38,944 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_detail_addr_info') 执行清空操作
+2019-09-17 20:14:39,875 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_detail_addr_info') 执行 输入：望府街108号
+2019-09-17 20:14:40,875 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_post_code') 超时时间：10 访问频率：0.5
+2019-09-17 20:14:41,537 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_post_code') 执行清空操作
+2019-09-17 20:14:42,528 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_post_code') 执行 输入：100000
+2019-09-17 20:14:42,528 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/button_send') 超时时间：10 访问频率：0.5
+2019-09-17 20:14:43,019 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/button_send')
+2019-09-17 20:14:43,020 INFO [root] [base.py (base_finds:29] - 正在查找元素：('id', 'com.yunmall.lc:id/receipt_name') 超时时间：10 访问频率：0.5
+2019-09-17 20:14:44,079 INFO [root] [base.py (base_finds:29] - 正在查找元素：('id', 'com.yunmall.lc:id/receipt_name') 超时时间：10 访问频率：0.5
+2019-09-17 20:14:44,272 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/modify') 超时时间：10 访问频率：0.5
+2019-09-17 20:16:05,373 INFO [root] [base.py (__init__:15] - 获取driver对象：<appium.webdriver.webdriver.WebDriver (session="1b15b734-9a36-4f5a-87d6-431fda080848")>
+2019-09-17 20:16:05,373 INFO [root] [base.py (__init__:15] - 获取driver对象：<appium.webdriver.webdriver.WebDriver (session="1b15b734-9a36-4f5a-87d6-431fda080848")>
+2019-09-17 20:16:05,374 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/img_close') 超时时间：10 访问频率：0.5
+2019-09-17 20:16:05,955 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/img_close')
+2019-09-17 20:16:05,955 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/tab_me') 超时时间：10 访问频率：0.5
+2019-09-17 20:16:07,187 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/tab_me')
+2019-09-17 20:16:07,187 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/textView1') 超时时间：10 访问频率：0.5
+2019-09-17 20:16:08,585 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/textView1')
+2019-09-17 20:16:08,586 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/logon_account_textview') 超时时间：10 访问频率：0.5
+2019-09-17 20:16:09,922 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/logon_account_textview') 执行清空操作
+2019-09-17 20:16:10,619 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/logon_account_textview') 执行 输入：18333182751
+2019-09-17 20:16:10,620 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/logon_password_textview') 超时时间：10 访问频率：0.5
+2019-09-17 20:16:12,702 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/logon_password_textview') 执行清空操作
+2019-09-17 20:16:13,327 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/logon_password_textview') 执行 输入：yuanning123456
+2019-09-17 20:16:13,328 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/logon_button') 超时时间：10 访问频率：0.5
+2019-09-17 20:16:13,855 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/logon_button')
+2019-09-17 20:16:15,856 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image') 超时时间：10 访问频率：0.5
+2019-09-17 20:16:15,910 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image')
+2019-09-17 20:16:15,910 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/setting_address_manage') 超时时间：10 访问频率：0.5
+2019-09-17 20:16:17,043 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/setting_address_manage')
+2019-09-17 20:16:17,044 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_add_new_btn') 超时时间：10 访问频率：0.5
+2019-09-17 20:16:18,111 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/address_add_new_btn')
+2019-09-17 20:16:18,111 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_receipt_name') 超时时间：10 访问频率：0.5
+2019-09-17 20:16:19,780 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_receipt_name') 执行清空操作
+2019-09-17 20:16:20,447 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_receipt_name') 执行 输入：张三
+2019-09-17 20:16:20,447 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_add_phone') 超时时间：10 访问频率：0.5
+2019-09-17 20:16:21,554 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_add_phone') 执行清空操作
+2019-09-17 20:16:22,240 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_add_phone') 执行 输入：13800001111
+2019-09-17 20:16:22,241 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_province') 超时时间：10 访问频率：0.5
+2019-09-17 20:16:22,790 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/address_province')
+2019-09-17 20:16:22,791 INFO [root] [base.py (base_find:22] - 正在查找元素：('xpath', "//*[contains(@text,'河北省')]") 超时时间：10 访问频率：0.5
+2019-09-17 20:16:23,884 INFO [root] [base.py (base_click:37] - 正在点击元素：('xpath', "//*[contains(@text,'河北省')]")
+2019-09-17 20:16:23,885 INFO [root] [base.py (base_find:22] - 正在查找元素：('xpath', "//*[contains(@text,'石家庄')]") 超时时间：10 访问频率：0.5
+2019-09-17 20:16:24,749 INFO [root] [base.py (base_click:37] - 正在点击元素：('xpath', "//*[contains(@text,'石家庄')]")
+2019-09-17 20:16:24,749 INFO [root] [base.py (base_find:22] - 正在查找元素：('xpath', "//*[contains(@text,'长安区')]") 超时时间：10 访问频率：0.5
+2019-09-17 20:16:25,601 INFO [root] [base.py (base_click:37] - 正在点击元素：('xpath', "//*[contains(@text,'长安区')]")
+2019-09-17 20:16:25,601 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_detail_addr_info') 超时时间：10 访问频率：0.5
+2019-09-17 20:16:26,894 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_detail_addr_info') 执行清空操作
+2019-09-17 20:16:27,565 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_detail_addr_info') 执行 输入：京城110号
+2019-09-17 20:16:27,566 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_post_code') 超时时间：10 访问频率：0.5
+2019-09-17 20:16:28,665 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_post_code') 执行清空操作
+2019-09-17 20:16:29,327 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_post_code') 执行 输入：100010
+2019-09-17 20:16:29,328 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_default') 超时时间：10 访问频率：0.5
+2019-09-17 20:16:29,847 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/address_default')
+2019-09-17 20:16:29,848 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/button_send') 超时时间：10 访问频率：0.5
+2019-09-17 20:16:30,385 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/button_send')
+2019-09-17 20:16:30,386 INFO [root] [base.py (base_finds:29] - 正在查找元素：('id', 'com.yunmall.lc:id/receipt_name') 超时时间：10 访问频率：0.5
+2019-09-17 20:16:31,489 INFO [root] [base.py (base_finds:29] - 正在查找元素：('id', 'com.yunmall.lc:id/receipt_name') 超时时间：10 访问频率：0.5
+2019-09-17 20:16:31,883 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/ymtitlebar_right_btn') 超时时间：10 访问频率：0.5
+2019-09-17 20:16:31,923 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/ymtitlebar_right_btn')
+2019-09-17 20:16:31,924 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/modify') 超时时间：10 访问频率：0.5
+2019-09-17 20:16:32,608 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/modify')
+2019-09-17 20:16:32,609 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_receipt_name') 超时时间：10 访问频率：0.5
+2019-09-17 20:16:34,822 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_receipt_name') 执行清空操作
+2019-09-17 20:16:35,875 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_receipt_name') 执行 输入：莉莉丝
+2019-09-17 20:16:35,875 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_add_phone') 超时时间：10 访问频率：0.5
+2019-09-17 20:16:37,190 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_add_phone') 执行清空操作
+2019-09-17 20:16:38,125 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_add_phone') 执行 输入：13811111111
+2019-09-17 20:16:39,126 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_province') 超时时间：10 访问频率：0.5
+2019-09-17 20:16:39,167 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/address_province')
+2019-09-17 20:16:39,168 INFO [root] [base.py (base_find:22] - 正在查找元素：('xpath', "//*[contains(@text,'广东')]") 超时时间：10 访问频率：0.5
+2019-09-17 20:16:40,251 INFO [root] [base.py (base_click:37] - 正在点击元素：('xpath', "//*[contains(@text,'广东')]")
+2019-09-17 20:16:40,251 INFO [root] [base.py (base_find:22] - 正在查找元素：('xpath', "//*[contains(@text,'广州')]") 超时时间：10 访问频率：0.5
+2019-09-17 20:16:41,116 INFO [root] [base.py (base_click:37] - 正在点击元素：('xpath', "//*[contains(@text,'广州')]")
+2019-09-17 20:16:41,117 INFO [root] [base.py (base_find:22] - 正在查找元素：('xpath', "//*[contains(@text,'天河')]") 超时时间：10 访问频率：0.5
+2019-09-17 20:16:41,961 INFO [root] [base.py (base_click:37] - 正在点击元素：('xpath', "//*[contains(@text,'天河')]")
+2019-09-17 20:16:42,963 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_detail_addr_info') 超时时间：10 访问频率：0.5
+2019-09-17 20:16:43,677 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_detail_addr_info') 执行清空操作
+2019-09-17 20:16:44,597 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_detail_addr_info') 执行 输入：望府街108号
+2019-09-17 20:16:45,598 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_post_code') 超时时间：10 访问频率：0.5
+2019-09-17 20:16:46,308 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_post_code') 执行清空操作
+2019-09-17 20:16:47,258 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_post_code') 执行 输入：100000
+2019-09-17 20:16:47,259 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/button_send') 超时时间：10 访问频率：0.5
+2019-09-17 20:16:47,778 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/button_send')
+2019-09-17 20:16:47,778 INFO [root] [base.py (base_finds:29] - 正在查找元素：('id', 'com.yunmall.lc:id/receipt_name') 超时时间：10 访问频率：0.5
+2019-09-17 20:16:48,901 INFO [root] [base.py (base_finds:29] - 正在查找元素：('id', 'com.yunmall.lc:id/receipt_name') 超时时间：10 访问频率：0.5
+2019-09-17 20:16:50,114 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/modify') 超时时间：10 访问频率：0.5
+2019-09-17 20:17:57,333 INFO [root] [base.py (__init__:15] - 获取driver对象：<appium.webdriver.webdriver.WebDriver (session="e13bdbee-4170-44e7-972c-d16d72503fee")>
+2019-09-17 20:17:57,334 INFO [root] [base.py (__init__:15] - 获取driver对象：<appium.webdriver.webdriver.WebDriver (session="e13bdbee-4170-44e7-972c-d16d72503fee")>
+2019-09-17 20:17:57,334 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/img_close') 超时时间：10 访问频率：0.5
+2019-09-17 20:17:57,903 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/img_close')
+2019-09-17 20:17:57,903 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/tab_me') 超时时间：10 访问频率：0.5
+2019-09-17 20:17:59,122 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/tab_me')
+2019-09-17 20:17:59,122 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/textView1') 超时时间：10 访问频率：0.5
+2019-09-17 20:18:00,326 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/textView1')
+2019-09-17 20:18:00,326 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/logon_account_textview') 超时时间：10 访问频率：0.5
+2019-09-17 20:18:01,596 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/logon_account_textview') 执行清空操作
+2019-09-17 20:18:02,259 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/logon_account_textview') 执行 输入：18333182751
+2019-09-17 20:18:02,259 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/logon_password_textview') 超时时间：10 访问频率：0.5
+2019-09-17 20:18:04,458 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/logon_password_textview') 执行清空操作
+2019-09-17 20:18:05,075 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/logon_password_textview') 执行 输入：yuanning123456
+2019-09-17 20:18:05,075 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/logon_button') 超时时间：10 访问频率：0.5
+2019-09-17 20:18:05,621 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/logon_button')
+2019-09-17 20:18:07,622 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image') 超时时间：10 访问频率：0.5
+2019-09-17 20:18:07,685 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image')
+2019-09-17 20:18:07,686 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/setting_address_manage') 超时时间：10 访问频率：0.5
+2019-09-17 20:18:08,882 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/setting_address_manage')
+2019-09-17 20:18:08,883 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_add_new_btn') 超时时间：10 访问频率：0.5
+2019-09-17 20:18:10,101 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/address_add_new_btn')
+2019-09-17 20:18:10,101 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_receipt_name') 超时时间：10 访问频率：0.5
+2019-09-17 20:18:11,752 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_receipt_name') 执行清空操作
+2019-09-17 20:18:12,422 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_receipt_name') 执行 输入：张三
+2019-09-17 20:18:12,423 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_add_phone') 超时时间：10 访问频率：0.5
+2019-09-17 20:18:13,498 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_add_phone') 执行清空操作
+2019-09-17 20:18:14,190 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_add_phone') 执行 输入：13800001111
+2019-09-17 20:18:14,191 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_province') 超时时间：10 访问频率：0.5
+2019-09-17 20:18:14,713 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/address_province')
+2019-09-17 20:18:14,713 INFO [root] [base.py (base_find:22] - 正在查找元素：('xpath', "//*[contains(@text,'河北省')]") 超时时间：10 访问频率：0.5
+2019-09-17 20:18:15,837 INFO [root] [base.py (base_click:37] - 正在点击元素：('xpath', "//*[contains(@text,'河北省')]")
+2019-09-17 20:18:15,837 INFO [root] [base.py (base_find:22] - 正在查找元素：('xpath', "//*[contains(@text,'石家庄')]") 超时时间：10 访问频率：0.5
+2019-09-17 20:18:16,689 INFO [root] [base.py (base_click:37] - 正在点击元素：('xpath', "//*[contains(@text,'石家庄')]")
+2019-09-17 20:18:16,689 INFO [root] [base.py (base_find:22] - 正在查找元素：('xpath', "//*[contains(@text,'长安区')]") 超时时间：10 访问频率：0.5
+2019-09-17 20:18:17,555 INFO [root] [base.py (base_click:37] - 正在点击元素：('xpath', "//*[contains(@text,'长安区')]")
+2019-09-17 20:18:17,555 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_detail_addr_info') 超时时间：10 访问频率：0.5
+2019-09-17 20:18:18,826 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_detail_addr_info') 执行清空操作
+2019-09-17 20:18:19,522 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_detail_addr_info') 执行 输入：京城110号
+2019-09-17 20:18:19,523 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_post_code') 超时时间：10 访问频率：0.5
+2019-09-17 20:18:20,611 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_post_code') 执行清空操作
+2019-09-17 20:18:21,305 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_post_code') 执行 输入：100010
+2019-09-17 20:18:21,306 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_default') 超时时间：10 访问频率：0.5
+2019-09-17 20:18:21,818 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/address_default')
+2019-09-17 20:18:21,819 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/button_send') 超时时间：10 访问频率：0.5
+2019-09-17 20:18:22,356 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/button_send')
+2019-09-17 20:18:22,356 INFO [root] [base.py (base_finds:29] - 正在查找元素：('id', 'com.yunmall.lc:id/receipt_name') 超时时间：10 访问频率：0.5
+2019-09-17 20:18:23,511 INFO [root] [base.py (base_finds:29] - 正在查找元素：('id', 'com.yunmall.lc:id/receipt_name') 超时时间：10 访问频率：0.5
+2019-09-17 20:18:23,816 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/ymtitlebar_right_btn') 超时时间：10 访问频率：0.5
+2019-09-17 20:18:23,862 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/ymtitlebar_right_btn')
+2019-09-17 20:18:23,863 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/modify') 超时时间：10 访问频率：0.5
+2019-09-17 20:18:24,563 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/modify')
+2019-09-17 20:18:24,563 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_receipt_name') 超时时间：10 访问频率：0.5
+2019-09-17 20:18:26,250 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_receipt_name') 执行清空操作
+2019-09-17 20:18:27,305 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_receipt_name') 执行 输入：莉莉丝
+2019-09-17 20:18:27,305 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_add_phone') 超时时间：10 访问频率：0.5
+2019-09-17 20:18:28,586 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_add_phone') 执行清空操作
+2019-09-17 20:18:29,498 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_add_phone') 执行 输入：13811111111
+2019-09-17 20:18:30,498 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_province') 超时时间：10 访问频率：0.5
+2019-09-17 20:18:30,555 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/address_province')
+2019-09-17 20:18:30,555 INFO [root] [base.py (base_find:22] - 正在查找元素：('xpath', "//*[contains(@text,'广东')]") 超时时间：10 访问频率：0.5
+2019-09-17 20:18:31,671 INFO [root] [base.py (base_click:37] - 正在点击元素：('xpath', "//*[contains(@text,'广东')]")
+2019-09-17 20:18:31,671 INFO [root] [base.py (base_find:22] - 正在查找元素：('xpath', "//*[contains(@text,'广州')]") 超时时间：10 访问频率：0.5
+2019-09-17 20:18:32,528 INFO [root] [base.py (base_click:37] - 正在点击元素：('xpath', "//*[contains(@text,'广州')]")
+2019-09-17 20:18:32,529 INFO [root] [base.py (base_find:22] - 正在查找元素：('xpath', "//*[contains(@text,'天河')]") 超时时间：10 访问频率：0.5
+2019-09-17 20:18:33,404 INFO [root] [base.py (base_click:37] - 正在点击元素：('xpath', "//*[contains(@text,'天河')]")
+2019-09-17 20:18:34,404 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_detail_addr_info') 超时时间：10 访问频率：0.5
+2019-09-17 20:18:35,177 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_detail_addr_info') 执行清空操作
+2019-09-17 20:18:36,104 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_detail_addr_info') 执行 输入：望府街108号
+2019-09-17 20:18:37,105 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/address_post_code') 超时时间：10 访问频率：0.5
+2019-09-17 20:18:37,850 INFO [root] [base.py (base_input:45] - 正在对元素：('id', 'com.yunmall.lc:id/address_post_code') 执行清空操作
+2019-09-17 20:18:38,752 INFO [root] [base.py (base_input:48] - 对元素：('id', 'com.yunmall.lc:id/address_post_code') 执行 输入：100000
+2019-09-17 20:18:38,753 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/button_send') 超时时间：10 访问频率：0.5
+2019-09-17 20:18:39,303 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/button_send')
+2019-09-17 20:18:39,303 INFO [root] [base.py (base_finds:29] - 正在查找元素：('id', 'com.yunmall.lc:id/receipt_name') 超时时间：10 访问频率：0.5
+2019-09-17 20:18:40,476 INFO [root] [base.py (base_finds:29] - 正在查找元素：('id', 'com.yunmall.lc:id/receipt_name') 超时时间：10 访问频率：0.5
+2019-09-17 20:18:41,722 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/ymtitlebar_right_btn') 超时时间：10 访问频率：0.5
+2019-09-17 20:18:41,757 INFO [root] [base.py (base_click:37] - 正在点击元素：('id', 'com.yunmall.lc:id/ymtitlebar_right_btn')
+2019-09-17 20:18:41,757 INFO [root] [base.py (base_finds:29] - 正在查找元素：('xpath', "//*[contains(@text,'删除')]") 超时时间：10 访问频率：0.5
+2019-09-17 20:18:41,934 INFO [root] [base.py (base_find:22] - 正在查找元素：('id', 'com.yunmall.lc:id/ymdialog_left_button') 超时时间：10 访问频率：0.5

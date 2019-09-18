@@ -1,0 +1,20 @@
+base.py                     15 INFO     获取driver对象：<appium.webdriver.webdriver.WebDriver (session="9c4f6d5f-1a9a-4a2f-b849-28497d964347")>
+base.py                     15 INFO     获取driver对象：<appium.webdriver.webdriver.WebDriver (session="9c4f6d5f-1a9a-4a2f-b849-28497d964347")>
+base.py                     22 INFO     正在查找元素：('id', 'com.yunmall.lc:id/img_close') 超时时间：10 访问频率：0.5
+base.py                     37 INFO     正在点击元素：('id', 'com.yunmall.lc:id/img_close')
+base.py                     22 INFO     正在查找元素：('id', 'com.yunmall.lc:id/tab_me') 超时时间：10 访问频率：0.5
+base.py                     37 INFO     正在点击元素：('id', 'com.yunmall.lc:id/tab_me')
+base.py                     22 INFO     正在查找元素：('id', 'com.yunmall.lc:id/textView1') 超时时间：10 访问频率：0.5
+base.py                     37 INFO     正在点击元素：('id', 'com.yunmall.lc:id/textView1')
+base.py                     22 INFO     正在查找元素：('id', 'com.yunmall.lc:id/logon_account_textview') 超时时间：10 访问频率：0.5
+base.py                     45 INFO     正在对元素：('id', 'com.yunmall.lc:id/logon_account_textview') 执行清空操作
+base.py                     48 INFO     对元素：('id', 'com.yunmall.lc:id/logon_account_textview') 执行 输入：18333182751
+base.py                     22 INFO     正在查找元素：('id', 'com.yunmall.lc:id/logon_password_textview') 超时时间：10 访问频率：0.5
+base.py                     45 INFO     正在对元素：('id', 'com.yunmall.lc:id/logon_password_textview') 执行清空操作
+base.py                     48 INFO     对元素：('id', 'com.yunmall.lc:id/logon_password_textview') 执行 输入：yuanning123456
+base.py                     22 INFO     正在查找元素：('id', 'com.yunmall.lc:id/logon_button') 超时时间：10 访问频率：0.5
+base.py                     37 INFO     正在点击元素：('id', 'com.yunmall.lc:id/logon_button')
+base.py                     22 INFO     正在查找元素：('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image') 超时时间：10 访问频率：0.5
+base.py                     37 INFO     正在点击元素：('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image')
+base.py                     22 INFO     正在查找元素：('id', 'com.yunmall.lc:id/setting_address_manage') 超时时间：10 访问频率：0.5
+base.py                     37 INFO     正在点击元素：('id', 'com.yunmall.lc:id/setting_address_manage')
